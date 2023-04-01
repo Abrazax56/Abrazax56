@@ -1,128 +1,31 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Jam Digital</title>
-    <style>
-      #clock {
-  font-size: 3rem;
-  text-align: center;
-  margin: 2rem;
-}
+<h1 align="center">ABRAZAX56<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 
-#calendar {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 2rem;
-}
+<p align="center">
 
-#month {
-  font-size: 2rem;
-  font-weight: bold;
-  margin-bottom: 1rem;
-}
+</p>
 
-#days {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  gap: 0.5rem;
-}
+## ```ASSALAMUALAIKUM```
 
-#days div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 3rem;
-  height: 3rem;
-  border-radius: 50%;
-  cursor: pointer;
-}
+<p align="center">
 
-.prev-date,
-.next-date {
-  color: #a9a9a9;
-}
+-  My Name Ahmad Beni Rusly
 
-    </style>
-  </head>
-  <body>
-    <!-- Jam Digital -->
-<div id="clock"></div>
+-  I Come From Cilacap
 
-<!-- Kalender -->
-<div id="calendar">
-  <div id="month"></div>
-  <div id="days"></div>
-</div>
-    <script>
-      // Fungsi untuk menampilkan waktu
-function showTime() {
-  const date = new Date();
-  let hour = date.getHours();
-  let min = date.getMinutes();
-  let sec = date.getSeconds();
+-  My Age 17th Years Old
 
-  hour = hour < 10 ? "0" + hour : hour;
-  min = min < 10 ? "0" + min : min;
-  sec = sec < 10 ? "0" + sec : sec;
+-  Im Study On SMK DARUL ULUM
 
-  const time = `${hour}:${min}:${sec}`;
-  document.getElementById("clock").innerText = time;
+</p>
 
-  setTimeout(showTime, 1000);
-}
+------
 
-// Fungsi untuk menampilkan kalender
-function showCalendar() {
-  const date = new Date();
-  const month = date.getMonth();
-  const year = date.getFullYear();
+## ```SOCIAL MEDIA```
 
-  const monthsArr = [
-    "Januari",
-    "Februari",
-    "Maret",
-    "April",
-    "Mei",
-    "Juni",
-    "Juli",
-    "Agustus",
-    "September",
-    "Oktober",
-    "November",
-    "Desember",
-  ];
+<p align="center">
 
-  document.getElementById("month").innerText = monthsArr[month] + " " + year;
+<a href="https://www.instagram.com/beng_beng_ruszly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
-  const firstDay = new Date(year, month, 1).getDay();
-  const lastDay = new Date(year, month + 1, 0).getDate();
+<a href="https://wa.me/6288216018165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-  let days = "";
-
-  for (let i = 1; i <= lastDay; i++) {
-    if (i === 1) {
-      for (let j = 0; j < firstDay; j++) {
-        days += `<div class="prev-date"></div>`;
-      }
-    }
-
-    days += `<div>${i}</div>`;
-
-    if (i === lastDay) {
-      const lastDayIndex = new Date(year, month, lastDay).getDay();
-      for (let k = lastDayIndex; k < 6; k++) {
-        days += `<div class="next-date"></div>`;
-      }
-    }
-  }
-
-  document.getElementById("days").innerHTML = days;
-}
-
-showTime();
-showCalendar();
-    </script>
-  </body>
-</html>
+</p>
