@@ -1,21 +1,128 @@
-<h1 align="center">ABRAZAX56<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
-<p align="center">
-</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Jam Digital</title>
+    <style>
+      #clock {
+  font-size: 3rem;
+  text-align: center;
+  margin: 2rem;
+}
 
+#calendar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+}
 
-## ```ASSALAMUALAIKUM```
-<p align="center">
+#month {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
 
--  My Name Ahmad Beni Rusly
--  I Come From Cilacap
--  My Age 17th Years Old
--  Im Study On SMK DARUL ULUM
-</p>
+#days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.5rem;
+}
 
-------
+#days div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  cursor: pointer;
+}
 
-## ```SOCIAL MEDIA```
-<p align="center">
-<a href="https://www.instagram.com/kesialan_kemiskinan78"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6288216018165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+.prev-date,
+.next-date {
+  color: #a9a9a9;
+}
+
+    </style>
+  </head>
+  <body>
+    <!-- Jam Digital -->
+<div id="clock"></div>
+
+<!-- Kalender -->
+<div id="calendar">
+  <div id="month"></div>
+  <div id="days"></div>
+</div>
+    <script>
+      // Fungsi untuk menampilkan waktu
+function showTime() {
+  const date = new Date();
+  let hour = date.getHours();
+  let min = date.getMinutes();
+  let sec = date.getSeconds();
+
+  hour = hour < 10 ? "0" + hour : hour;
+  min = min < 10 ? "0" + min : min;
+  sec = sec < 10 ? "0" + sec : sec;
+
+  const time = `${hour}:${min}:${sec}`;
+  document.getElementById("clock").innerText = time;
+
+  setTimeout(showTime, 1000);
+}
+
+// Fungsi untuk menampilkan kalender
+function showCalendar() {
+  const date = new Date();
+  const month = date.getMonth();
+  const year = date.getFullYear();
+
+  const monthsArr = [
+    "Januari",
+    "Februari",
+    "Maret",
+    "April",
+    "Mei",
+    "Juni",
+    "Juli",
+    "Agustus",
+    "September",
+    "Oktober",
+    "November",
+    "Desember",
+  ];
+
+  document.getElementById("month").innerText = monthsArr[month] + " " + year;
+
+  const firstDay = new Date(year, month, 1).getDay();
+  const lastDay = new Date(year, month + 1, 0).getDate();
+
+  let days = "";
+
+  for (let i = 1; i <= lastDay; i++) {
+    if (i === 1) {
+      for (let j = 0; j < firstDay; j++) {
+        days += `<div class="prev-date"></div>`;
+      }
+    }
+
+    days += `<div>${i}</div>`;
+
+    if (i === lastDay) {
+      const lastDayIndex = new Date(year, month, lastDay).getDay();
+      for (let k = lastDayIndex; k < 6; k++) {
+        days += `<div class="next-date"></div>`;
+      }
+    }
+  }
+
+  document.getElementById("days").innerHTML = days;
+}
+
+showTime();
+showCalendar();
+    </script>
+  </body>
+</html>
