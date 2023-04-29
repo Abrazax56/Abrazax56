@@ -35,12 +35,11 @@
 
 
 
-|-	|:-:|
+
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
   [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://wa.me/6288216018165
-[consult-shield]: https://img.shields.io/badge/Require%20Paid%20Support%20or%20Consulting%3F-Click%20Here-blue?style=for-the-badge&logo=paypal
-[consult]: mailto:shah@openwa.dev?subject=WhatsApp%20Consulting
+[buymeacoffee]: [https://wa.me/6288216018165](https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE)
+
   </p>
