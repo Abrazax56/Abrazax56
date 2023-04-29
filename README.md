@@ -28,13 +28,13 @@
 
 <a href="https://wa.me/6288216018165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-</p>
+
   
- ##```SUPPORT```
+## ```SUPPORT```
 
 
 
-|Description | Link |
+
 |-	|:-:|
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
@@ -43,3 +43,4 @@
 [buymeacoffee]: https://wa.me/6288216018165
 [consult-shield]: https://img.shields.io/badge/Require%20Paid%20Support%20or%20Consulting%3F-Click%20Here-blue?style=for-the-badge&logo=paypal
 [consult]: mailto:shah@openwa.dev?subject=WhatsApp%20Consulting
+  </p>
