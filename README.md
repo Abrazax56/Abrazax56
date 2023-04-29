@@ -40,3 +40,8 @@ If you need paid support, consulting, or just want support/sponsor the ongoing d
 | Donate or Book 1 hour consult | [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 | Per-minute consulting |   <a href="http://otechie.com/smashah"><img src="https://api.otechie.com/consultancy/smashah/badge.svg" alt="Consulting"/></a>
 | Hire me! | [![Consulting Request][consult-shield]][consult]
+  
+  [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
+[buymeacoffee]: https://www.buymeacoffee.com/smashah
+[consult-shield]: https://img.shields.io/badge/Require%20Paid%20Support%20or%20Consulting%3F-Click%20Here-blue?style=for-the-badge&logo=paypal
+[consult]: mailto:shah@openwa.dev?subject=WhatsApp%20Consulting
