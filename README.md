@@ -37,7 +37,7 @@
 |Description | Link |
 |-	|:-:|
 
-| Donate or Book 1 hour consult | [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
   [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://wa.me/6288216018165
