@@ -11,13 +11,13 @@
 </h1>
 <h3 align="center">
 
--  My Name Ahmad Beni Rusly
+My Name Ahmad Beni Rusly
 
--  I Come From Cilacap
+I Come From Cilacap
 
--  My Age 18th Years Old
+My Age 18th Years Old
 
--  Im Study On SMK DARUL ULUM
+Im Study On <u>SMK DARUL ULUM</u>
 
 
 
@@ -39,11 +39,10 @@ Social Media
   <h1 align="center">
     Support
   </h1>
-    
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
-
-  [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE
-
+    <h3 align="center">
+<a href="https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE">
+ <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg">
+</a>
+    </h3>
 
  
