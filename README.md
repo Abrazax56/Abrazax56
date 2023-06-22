@@ -41,7 +41,7 @@ Social Media
   </h1>
     <h3 align="center">
 <a href="https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE">
- <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" width="30px">
+ <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" width="300px">
 </a>
     </h3>
 
