@@ -4,9 +4,10 @@
 
 </p>
 
+<h4 align="center">
+
 ## ```ASSALAMUALAIKUM```
 
-<p align="center">
 
 -  My Name Ahmad Beni Rusly
 
@@ -16,13 +17,12 @@
 
 -  Im Study On SMK DARUL ULUM
 
-</p>
+
 
 ------
 
 ## ```SOCIAL MEDIA```
 
-<p align="center">
 
 <a href="https://www.instagram.com/beng_beng_ruszly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 
@@ -42,10 +42,10 @@
   [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE
 
-<h2 align="center">
+
 <a href="https://wa.me/6288216018165">
 <img src="https://i.pinimg.com/originals/aa/87/57/aa875736dd842328d32b2eae26988ff8.jpg">
 </a>
-</h2>
+</h4>
 
-  </p>
+ 
