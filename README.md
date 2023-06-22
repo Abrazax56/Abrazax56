@@ -9,7 +9,7 @@
 <h1 align="center">
   About Me
 </h1>
-<p align="center">
+<h3 align="center">
 
 My Name Ahmad Beni Rusly
 
@@ -17,12 +17,12 @@ I Come From Cilacap
 
 My Age 18th Years Old
 
-Im Study On <u>SMK DARUL ULUM</u>
+Im Study On SMK DARUL ULUM
 
 
 
 ------
-</p>
+</h3>
 
 <h1 align="center">
 Social Media
@@ -41,7 +41,7 @@ Social Media
   </h1>
     <h3 align="center">
 <a href="https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE">
- <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg">
+ <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" width="30px">
 </a>
     </h3>
 
