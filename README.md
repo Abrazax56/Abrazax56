@@ -42,9 +42,10 @@
   [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE
 
-
-<a href="https://wa.me/6288216018165" align="center">
+<h2 align="center">
+<a href="https://wa.me/6288216018165">
 <img src="https://i.pinimg.com/originals/aa/87/57/aa875736dd842328d32b2eae26988ff8.jpg">
 </a>
+</h2>
 
   </p>
