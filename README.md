@@ -1,12 +1,12 @@
 <h1 align="center">ABRAZAX56<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="43px" alt=""><br></h1>
 <h2 align="center">
   <a href="https://wa.me/6288216018165">
-<img src="https://i.pinimg.com/originals/aa/87/57/aa875736dd842328d32b2eae26988ff8.jpg" width="80%">
+<img src="[https://i.pinimg.com/originals/aa/87/57/aa875736dd842328d32b2eae26988ff8.jpg](https://i.pinimg.com/originals/50/92/1e/50921ee179633dc6f820b7769ec88be2.jpg)" width="80%">
 </a>
 </h2>
 
 
-<br><br><br>
+<br><br>
 <h1 align="center">
   About Me
 </h1>
@@ -25,7 +25,7 @@ Im Study On SMK DARUL ULUM
 
 ------
 </h3>
-<br><br><br>
+<br><br>
 <h1 align="center">
 Social Media
 </h1>
@@ -38,7 +38,7 @@ Social Media
 
 ------
 </h3>
-<br><br><br>
+<br><br>
   <h1 align="center">
     Support
   </h1>
