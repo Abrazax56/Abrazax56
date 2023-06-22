@@ -22,9 +22,9 @@
 ------
 </p>
 
-<h2 align="center" color="blue">
+<h1 align="center" bgcolor="blue">
 Social Media
-</h2>
+</h1>
 
 <p align="center">
 
