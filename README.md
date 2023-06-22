@@ -9,7 +9,7 @@
 <h1 align="center">
   About Me
 </h1>
-<h3 align="center">
+<p align="center">
 
 My Name Ahmad Beni Rusly
 
@@ -22,7 +22,7 @@ Im Study On <u>SMK DARUL ULUM</u>
 
 
 ------
-</h3>
+</p>
 
 <h1 align="center">
 Social Media
