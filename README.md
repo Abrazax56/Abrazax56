@@ -30,9 +30,9 @@ Social Media
 
 <h3 align="center">
 
-<a href="https://www.instagram.com/beng_beng_ruszly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://www.instagram.com/biar_keliatan_ada_namanya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="300px"></a> 
 
-<a href="https://wa.me/6288216018165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/6288216018165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="300px"></a>
 
 ------
 </h3>
