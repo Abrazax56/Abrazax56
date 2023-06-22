@@ -10,7 +10,7 @@
 <h1 align="center">
   About Me
 </h1>
-<br><br><br>
+<br>
 <h3 align="center">
 
 My Name Ahmad Beni Rusly
@@ -25,11 +25,11 @@ Im Study On SMK DARUL ULUM
 
 ------
 </h3>
-
+<br><br><br>
 <h1 align="center">
 Social Media
 </h1>
-
+<br>
 <h3 align="center">
 
 <a href="https://www.instagram.com/biar_keliatan_ada_namanya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="300px"></a> 
@@ -38,9 +38,11 @@ Social Media
 
 ------
 </h3>
+<br><br><br>
   <h1 align="center">
     Support
   </h1>
+<br>
     <h3 align="center">
 <a href="https://www.tokopedia.com/rekomendasi/9089676123?srsltid=AR57-fCiqXqS2rtIsvdmLTdzSqBd-2-3-lKCKNxyT48JI2rNkvIy6sYUnEE">
  <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" width="300px">
