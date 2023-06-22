@@ -44,7 +44,7 @@
 
 
 <a href="https://wa.me/6288216018165">
-<img src="https://i.pinimg.com/originals/aa/87/57/aa875736dd842328d32b2eae26988ff8.jpg">
+<img src="https://i.pinimg.com/originals/aa/87/57/aa875736dd842328d32b2eae26988ff8.jpg" align="center">
 </a>
 
   </p>
