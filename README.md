@@ -6,10 +6,32 @@ interface Address {
   city: string;
 }
 
+interface Hobbies {
+  [index: number]: string;
+}
+
+interface DetailEducations {
+  name: string;
+  address: string;
+  level: string;
+  year: string;
+}
+
+interface Educations {
+  [index: number]: DetailEducations;
+}
+
+interface FavouritesFoods {
+  [index: number]: string;
+}
+
 interface Person {
   name: string;
   birth: string;
   address: Address;
+  hobbies: Hobbies;
+  educations: Educations;
+  favouritesFoods: FavouritesFood;
 }
 
 class MyDetail<Type extends Person> {
@@ -22,8 +44,36 @@ const myDetail = new MyDetail<Person>({
   address: {
     street: "Jln. Cipari no 4",
     city: "Cilacap"
-  }
+  },
+  hobbies: [
+    "Coding",
+    "Drawing",
+    "Workout",
+    "Sleeping"
+  ],
+  educations: [
+    {
+      name: "MI Islamiyah"
+      address: "Jln. Cipari no 4, Tinggarjaya",
+      level: "elementary school",
+      year: "2011 - 2017"
+    },
+    {
+      name: "MTs Darul Ulum 02"
+      address: "Jln. Makam Pahlawan, Tinggarjaya",
+      level: "Junior high school",
+      year: "2017 - 2020"
+    },
+    {
+      name: "SMK Darul Ulum"
+      address: "Jln. Makam Pahlawan, Tinggarjaya",
+      level: "Vacational High School",
+      year: "2020 - 2023"
+    }
+  ],
+  favouritesFoods: [
+    "Fried Chicken",
+    "Ice Cream"
+  ]
 });
 ```
-
-<p align="center" style="width: 100%;"><a href="https://github.com/Abrazax56"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrazax56&theme=dark&layout=compact" style="width: 100%"></a></p>
