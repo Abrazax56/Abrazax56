@@ -53,19 +53,19 @@ const myDetail = new MyDetail<Person>({
   ],
   educations: [
     {
-      name: "MI Islamiyah"
+      name: "MI Islamiyah",
       address: "Jln. Cipari no 4, Tinggarjaya",
       level: "elementary school",
       year: "2011 - 2017"
     },
     {
-      name: "MTs Darul Ulum 02"
+      name: "MTs Darul Ulum 02",
       address: "Jln. Makam Pahlawan, Tinggarjaya",
       level: "Junior high school",
       year: "2017 - 2020"
     },
     {
-      name: "SMK Darul Ulum"
+      name: "SMK Darul Ulum",
       address: "Jln. Makam Pahlawan, Tinggarjaya",
       level: "Vacational High School",
       year: "2020 - 2023"
