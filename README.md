@@ -31,7 +31,7 @@ interface Person {
   address: Address;
   hobbies: Hobbies;
   educations: Educations;
-  favouritesFoods: FavouritesFood;
+  favouritesFoods: FavouritesFoods;
 }
 
 class MyDetail<Type extends Person> {
